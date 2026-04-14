@@ -10,7 +10,7 @@ V0 = 4k (leaning low)
 a = +
 k = -
 */
-LiquidCrystal lcd(3, 5, 10, 11, 12, 24); // RS, E, D4, D5, D6, D7 - remember to shift values
+LiquidCrystal lcd(15, 16, 18, 19, 20, 21); // RS, E, D4, D5, D6, D7 - remember to shift values
 
 void setup() {
   delay(200);
